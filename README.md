@@ -1,4 +1,4 @@
 # hello-world
-not sure
-New to coding entirely and looking to learn on my own schedule while I continue to work.
-I live in Europe but come from the US.
+funny to see this in retrospect.
+moved from Europe back to San Fran.
+picking up coding to eventually change careers to a web or software developer.
